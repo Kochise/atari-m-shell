@@ -2,6 +2,8 @@
 
 Atari program selector with real-time morphing text
 
+![m-shell](https://raw.githubusercontent.com/Kochise/m-shell/master/M-SHELL.GIF)
+
 * Hardware and software needed
 
 You need the following to get this program working :
